@@ -1,4 +1,4 @@
-District,Soil Type,pH Level,Organic Matter (%),Nitrogen Content (kg/ha),Phosphorus Content (kg/ha),Potassium Content (kg/ha)
+District,Soil_Type,pH_Level,Organic_Matter (%),Nitrogen_Content (kg/ha),Phosphorus_Content (kg/ha),Potassium_Content (kg/ha)
 West District,Silty,6.17,2.05,34.42,15.2,23.81
 North District,Silty,7.42,1.56,43.19,10.24,18.71
 South District,Silty,7.26,2.9,41.89,10.44,22.79
